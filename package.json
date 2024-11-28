@@ -5,7 +5,7 @@
   "scripts": {
     "generateDocs": "npx typedoc"
   },
-  "private": false,
+  "private": true,
   "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "14.8.5",
