@@ -1,5 +1,5 @@
 {
-  "name": "@tonconnect/ui-react",
+  "name": "@people-s-marketplace-tonconnect/ui-react",
   "version": "2.0.10-beta.1",
   "scripts": {
     "dev": "vite",
